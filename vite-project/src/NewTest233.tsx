@@ -1,7 +1,7 @@
 import React from "react";
 
 const NewTest = () => {
-  return <div>NewTest</div>;
+  return <div>console.log("this is added")</div>;
 };
 
 export default NewTest;
